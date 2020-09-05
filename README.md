@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Molly-Woo/Molly-Woo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+##### Hi
+我是奕含，福州大学学生。  
+我会C++、Html、Css、JavaScript  
+希望能在这里遇见朋友！
